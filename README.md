@@ -14,17 +14,6 @@
 
 💻 Open Source Enthusiast: I believe in the power of collaboration and open source. You'll find a mix of personal projects and contributions to open source initiatives that align with my interests.
 
-## Featured Projects
-
-🔍 **[Dice Game Website](https://priyanshuranjan2024.github.io/Dice-project/)**:Created a dynamic two-dice game website with HTML, CSS, and JavaScript. Ensured fair play with random outcomes, implemented responsive design, and provided real-time result tracking for an engaging user experience.
-
-
-
-## Technologies I'm Exploring
-
-👩‍💻 Languages: C++, JavaScript, HTML/CSS, SQL.
-
-🛠️ Tools and Frameworks: Git/Github, Bootstrap, Node.js, Express.js.
 
 ## Connect with Me
 
