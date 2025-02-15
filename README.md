@@ -4,7 +4,7 @@
 
 # Welcome to PRIYANSHU RANJAN's GitHub Repository!
 
-👋 Hello there! I'm Priyanshu Ranjan, a passionate first-year computer science student, and this is my coding playground. Here, you'll find a collection of projects and code snippets reflecting my journey into the world of programming and software development.
+👋 Hello there! I'm Priyanshu Ranjan, a passionate second-year computer science student, and this is my coding playground. Here, you'll find a collection of projects and code snippets reflecting my journey into the world of programming and software development.
 
 ## About Me
 
