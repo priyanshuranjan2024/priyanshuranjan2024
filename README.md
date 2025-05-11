@@ -22,7 +22,7 @@ Hey! I'm Priyanshu Ranjan — an upcoming third-year Computer Science student. T
 - Backend projects with a focus on performance and scalability.
 - Research notebooks and ML/DL experiments.
 - Web apps and full-stack tools I built or contributed to.
-- Scripts and setups that helped me during internships and freelance work.
+- Scripts and setups that helped me during internships and fun work.
 
 ---
 
