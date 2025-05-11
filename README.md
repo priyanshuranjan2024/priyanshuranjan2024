@@ -2,27 +2,38 @@
 
 ---
 
-# Welcome to PRIYANSHU RANJAN's GitHub Repository!
+# 👋 Welcome to Priyanshu Ranjan's GitHub
 
-👋 Hello there! I'm Priyanshu Ranjan, a passionate second-year computer science student, and this is my coding playground. Here, you'll find a collection of projects and code snippets reflecting my journey into the world of programming and software development.
+Hey! I'm Priyanshu Ranjan — an upcoming third-year Computer Science student. This space is a mix of everything I’ve been building, breaking, fixing, and learning. From backend systems to deep learning models, it’s all part of the journey.
 
-## About Me
+---
 
-🚀 Aspiring Software Engineer: Currently embarking on my academic journey in computer science, I'm fascinated by the endless possibilities that technology offers.
+## 🛠️ About Me
 
-🌐 Full Stack Explorer: From front-end web development to diving into the intricacies of algorithms, I enjoy exploring various facets of the vast computer science landscape.
+- Full-stack and backend developer — I work with Node.js, Laravel, React, and MongoDB/PostgreSQL. Built and led teams for scalable backend migrations.
+- Researching deep learning — working on breast cancer subtype classification with real-world genomic and imaging datasets under Dr. Nikhilanand Arya.
+- Regular LeetCoder — solving DSA problems regularly to stay sharp.
+- Curious about everything from systems, software security, machine learning, to how things scale in the real world.
 
-💻 Open Source Enthusiast: I believe in the power of collaboration and open source. You'll find a mix of personal projects and contributions to open source initiatives that align with my interests.
+---
 
+## 🔍 What to Expect Here
 
-## Connect with Me
+- Backend projects with a focus on performance and scalability.
+- Research notebooks and ML/DL experiments.
+- Web apps and full-stack tools I built or contributed to.
+- Scripts and setups that helped me during internships and freelance work.
 
-📫 Let's connect! Feel free to reach out if you have questions, want to collaborate, or just chat about coding and technology.
+---
+
+## 📫 Let’s Connect
+
+Always up for chatting about projects, research, or just bouncing ideas.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/priyanshu-ranjan-2261b6257/)
 
+Thanks for stopping by.
 
-Thanks for stopping by, and happy coding! 🚀
 
 
 
