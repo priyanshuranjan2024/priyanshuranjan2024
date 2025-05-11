@@ -11,7 +11,7 @@ Hey! I'm Priyanshu Ranjan — an upcoming third-year Computer Science student. T
 ## 🛠️ About Me
 
 - Full-stack and backend developer — I work with Node.js, Laravel, React, and MongoDB/PostgreSQL. Built and led teams for scalable backend migrations.
-- Researching deep learning — working on breast cancer subtype classification with real-world genomic and imaging datasets under Dr. Nikhilanand Arya.
+- deep learning — working on breast cancer subtype classification with real-world genomic and imaging datasets under Dr. Nikhilanand Arya.
 - Regular LeetCoder — solving DSA problems regularly to stay sharp.
 - Curious about everything from systems, software security, machine learning, to how things scale in the real world.
 
