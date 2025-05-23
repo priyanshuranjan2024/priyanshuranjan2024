@@ -28,7 +28,7 @@ Hey! I'm Priyanshu Ranjan — an upcoming third-year Computer Science student. T
 
 ## 📊 My GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=priyanshuranjan&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=priyanshuranjan2024&show_icons=true&theme=dark)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshuranjan2024&layout=compact&theme=dark)
 
